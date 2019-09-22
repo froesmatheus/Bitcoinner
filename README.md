@@ -2,7 +2,9 @@
 
 Bitcoin info app written in Swift
 
-![sample](https://raw.githubusercontent.com/froesmatheus/Bitcoinner/master/Images/img.png)
+<p>
+  <img width="250px" src="https://raw.githubusercontent.com/froesmatheus/Bitcoinner/master/Images/img.png">
+</p>
 
 # Stack
 
