@@ -6,10 +6,17 @@ Bitcoin info app written in Swift
   <img width="250px" src="https://raw.githubusercontent.com/froesmatheus/Bitcoinner/master/Images/img.png">
 </p>
 
-# Stack
+## Stack
 
 - Swift
 - MVVM
 - Cocoapods
 - Realm
 - Charts
+
+## Architecture
+
+<p>
+  <img src="https://raw.githubusercontent.com/froesmatheus/Bitcoinner/master/Images/architecture.png">
+</p>
+
