@@ -1,6 +1,6 @@
 # Bitcoinner
 
-Bitcoin info app written in Swift
+Bitcoin info offline first iOS app written in Swift
 
 <p>
   <img width="250px" src="https://raw.githubusercontent.com/froesmatheus/Bitcoinner/master/Images/img.png">
